@@ -1,71 +1,34 @@
-BLOG
+##BLOG - General info
 
-----------------THIS READ ME IS A COPY PASTE OF A TEMPLATE. DIDN'T SPEND TIME EDITING, HOPEFULLY WILL DO LATER ---------------
+This blog is a project from me and my girlfriend about our 3 month trip to south-east Asia. During our time over there, we consulted a lot of blog website just like ours while trying to find information. This is our take on giving out the most of our knowledge from our experience. I hope you enjoy the content. We expect to complete this project before January 2020.
 
-One Paragraph of project description goes here
-Getting Started
+I spend a lot of time editing the CSS style as well as creating my own classes. Built some Javascript along the way in order to acheive what I had in mind, such has sticky 2nd navigation bar and some issue I had with the main navigation bar click (Special thanks to Mr. Montambeault for the help!)
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-Prerequisites
 
-What things you need to install the software and how to install them
 
-Give examples
+##Getting Started
 
-Installing
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. You are welcome to use my blog as a template to create your own. Have fun!
 
-A step by step series of examples that tell you how to get a development env running
+` git clone https://github.com/alexispoulin/blog.git  `
 
-Say what the step will be
 
-Give the example
 
-And repeat
+## Author of this blog
+Alexis Poulin
++ https://github.com/alexispoulin/blog
++ BearandBeeTravel.com
 
-until finished
 
-End with an example of getting some data out of the system or using it for a little demo
-Running the tests
+## Copyright and License
 
-Explain how to run the automated tests for this system
-Break down into end to end tests
+Copyright 2019 [Alexis Poulin](https://github.com/alexispoulin).
 
-Explain what these tests test and why
 
-Give an example
-
-And coding style tests
-
-Explain what these tests test and why
-
-Give an example
-
-Deployment
-
-Add additional notes about how to deploy this on a live system
-Built With
-
-    Dropwizard - The web framework used
-    Maven - Dependency Management
-    ROME - Used to generate RSS Feeds
-
-Contributing
-
-Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
-Versioning
-
-We use SemVer for versioning. For the versions available, see the tags on this repository.
-Authors
-
-    Billie Thompson - Initial work - PurpleBooth
-
-See also the list of contributors who participated in this project.
-License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details
-Acknowledgments
-
-    Hat tip to anyone whose code was used
-    Inspiration
-    etc
+----------CREDIT GOES TO----------
+I build this from a template found on Github by Ajay Marathe
+Here is the repository: https://github.com/ajaymarathe/bootstrap-carousel-blog.git)
+Here is the owner: Ajay Marathe
++ https://github.com/ajaymarathe
+----------CREDIT GOES TO----------
 

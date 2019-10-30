@@ -853,6 +853,10 @@ a.btn.disabled {
 }
 
 .dropdown-submenu:hover>.dropdown-menu {
+            display: none;
+        }
+
+.dropdown-submenu:hover>.dropdown-menu {
     display: block;
 }
 
@@ -878,7 +882,7 @@ a.btn.disabled {
  /* Style the navbar */
 #navbarsticky {
   overflow: hidden;
-  background:rgba(0,0,0,0.7);   /* for latest browsers */
+  background:rgba(0,0,0,0.7);
 }
 
 /* Navbar links left*/
@@ -935,6 +939,7 @@ a.btn.disabled {
   align-items: center;
   justify-content: space-between;
   padding: 0.5rem 1rem;
+  z-index: 1000;
 }
 
 .navbar > .container {

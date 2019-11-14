@@ -16,7 +16,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Author of this blog
 Alexis Poulin
-+ https://github.com/alexispoulin/blog
++ https://alexispoulin.github.io/blog/
 + BearandBeeTravel.com
 
 
@@ -30,5 +30,4 @@ I build this from a template found on Github by Ajay Marathe
 Here is the repository: https://github.com/ajaymarathe/bootstrap-carousel-blog.git)
 Here is the owner: Ajay Marathe
 + https://github.com/ajaymarathe
-----------CREDIT GOES TO----------
 

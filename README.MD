@@ -2,8 +2,6 @@
 
 This blog is a project from me and my girlfriend about our 3 month trip to south-east Asia. During our time over there, we consulted a lot of blog website just like ours while trying to find information. This is our take on giving out the most of our knowledge from our experience. I hope you enjoy the content. We expect to complete this project before January 2020.
 
-I spend a lot of time editing the CSS style as well as creating my own classes. Built some Javascript along the way in order to acheive what I had in mind, such has sticky 2nd navigation bar and some issue I had with the main navigation bar click (Special thanks to Mr. Montambeault for the help!)
-
 
 
 ##Getting Started
@@ -30,4 +28,5 @@ I build this from a template found on Github by Ajay Marathe
 Here is the repository: https://github.com/ajaymarathe/bootstrap-carousel-blog.git)
 Here is the owner: Ajay Marathe
 + https://github.com/ajaymarathe
+With Help of Alex Montambeault
 
